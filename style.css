@@ -213,7 +213,7 @@
   .home {
     display: flex;
     background-color:skyblue;
-    background: url("images/bg.jpg") no-repeat;
+    background: url("bg.jpg") no-repeat;
     height: 100vh;
     color:black;
     min-height: 500px;
